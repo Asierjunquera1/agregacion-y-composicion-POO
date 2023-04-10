@@ -1,0 +1,3 @@
+Aparece yang destruido al final ya que el metodo del se ejecuta cuando se elimina el objeto, en este caso al final.
+Una forma de que aparezca antes la interogacion es metiendo el el print dentro del metodo __del__, jsto antes de que se imprima el menaje de yang destruido.
+
